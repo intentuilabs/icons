@@ -221,6 +221,7 @@ export { default as IconBrandHetzner } from "./IconBrandHetzner";
 export { default as IconBrandHtml5 } from "./IconBrandHtml5";
 export { default as IconBrandInertiajs } from "./IconBrandInertiajs";
 export { default as IconBrandInstagram } from "./IconBrandInstagram";
+export { default as IconBrandIntentui } from "./IconBrandIntentui";
 export { default as IconBrandJavascript } from "./IconBrandJavascript";
 export { default as IconBrandJustd } from "./IconBrandJustd";
 export { default as IconBrandKarteil } from "./IconBrandKarteil";
