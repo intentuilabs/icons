@@ -7,7 +7,7 @@ const SvgIconWebcamFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`justd-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
+   className={`intentui-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
     <path fill="currentColor" d="M12 7.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5" />
     <path
       fill="currentColor"

@@ -7,7 +7,7 @@ const SvgIconBrandClerk = (props) => (
     fill="currentColor"
     viewBox="0 0 25 25"
     {...props}
-   className={`justd-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
+   className={`intentui-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
     <g clipPath="url(#icon-brand-clerk_svg__a)">
       <path d="M12.5 15.625a3.125 3.125 0 1 0 0-6.25 3.125 3.125 0 0 0 0 6.25m5.63 4.275a.593.593 0 0 1-.073.915A9.95 9.95 0 0 1 12.5 22.5a9.95 9.95 0 0 1-5.558-1.686.593.593 0 0 1-.073-.915l2.284-2.284a.675.675 0 0 1 .786-.105 5.6 5.6 0 0 0 2.561.615 5.6 5.6 0 0 0 2.562-.616c.26-.133.58-.1.786.106l2.284 2.284Z" />
       <path

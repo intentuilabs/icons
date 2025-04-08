@@ -7,7 +7,7 @@ const SvgIconChartAnalyticsFill = (props) => (
     fill="none"
     viewBox="0 0 24 25"
     {...props}
-   className={`justd-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
+   className={`intentui-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
     <path
       fill="currentColor"
       d="M3 4.5a.75.75 0 0 1 .75-.75h16.5a.75.75 0 0 1 .75.75V12h-4.298l-2.04-3.85a.75.75 0 0 0-1.34.03L9.96 15.324 8.412 12.4a.75.75 0 0 0-.662-.4H3z"

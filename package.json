@@ -1,5 +1,5 @@
 {
-  "name": "justd-icons",
+  "name": "@intentui/icons",
   "version": "1.10.26",
   "description": "A library of beautifully crafted react icons, perfect for enhancing the visual appeal and user experience of your web applications.",
   "author": "Irsyad A. Panjaitan",
@@ -49,7 +49,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justdlabs/icons.git"
+    "url": "git+https://github.com/intentuilabs/icons.git"
   },
   "homepage": "https://getjustd.com/icons",
   "devDependencies": {

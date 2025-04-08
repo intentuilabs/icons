@@ -5,7 +5,7 @@ This is a library icon of Justd previously well known as Paranoid Icons (@irsyad
 ![image](https://getjustd.com/icons/opengraph-image-1ltojg.png?9f62da52533ceee6?v=1)
 
 <p align="center">
-    <a href="https://github.com/justdlabs/icons/actions/workflows/release-package.yml"><img src="https://img.shields.io/github/actions/workflow/status/justdlabs/icons/release-package.yml" alt="Build Status"></a>
+    <a href="https://github.com/intentuilabs/icons/actions/workflows/release-package.yml"><img src="https://img.shields.io/github/actions/workflow/status/intentuilabs/icons/release-package.yml" alt="Build Status"></a>
     <a href="https://github.com/justd-icons/justd-icons/releases"><img src="https://img.shields.io/npm/v/justd-icons.svg" alt="Latest Release"></a>
     <a href="https://github.com/justd-icons/justd-icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/justd-icons.svg" alt="License"></a>
 </p>
@@ -30,7 +30,7 @@ The list of icons can be found here at [getjustd.com/icons](https://getjustd.com
 
 ## License
 
-This library is [MIT](https://github.com/justdlabs/icons/blob/master/LICENSE) licensed.
+This library is [MIT](https://github.com/intentuilabs/icons/blob/master/LICENSE) licensed.
 
 ## Showcase
 

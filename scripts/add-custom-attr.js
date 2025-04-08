@@ -18,7 +18,7 @@ fs.readdir(dir, (err, files) => {
         }
 
         let updatedData = data.replace(/<svg([^>]*?)>/, (match, attributes) => {
-          return `<svg${attributes} className={\`justd-icons \${props.className || "size-4"}\`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">`;
+          return `<svg${attributes} className={\`intentui-icons \${props.className || "size-4"}\`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">`;
         });
 
         fs.writeFile(filePath, updatedData, "utf8", (err) => {

@@ -7,7 +7,7 @@ const SvgIconSunsetArrowDown = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`justd-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
+   className={`intentui-icons ${props.className || "size-4"}`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">
     <path
       stroke="currentColor"
       strokeLinecap="round"
