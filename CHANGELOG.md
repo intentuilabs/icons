@@ -1,5 +1,12 @@
 
 
+## [1.10.27](https://github.com/intentuilabs/icons/compare/1.10.26...1.10.27) (2025-04-08)
+
+
+### Bug Fixes
+
+* prepare ([6e8a96e](https://github.com/intentuilabs/icons/commit/6e8a96e67826c2f30dd67ddecc3e5e26f149dd12))
+
 ## [1.10.26](https://github.com/intentuilabs/icons/compare/1.10.25...1.10.26) (2025-03-26)
 
 ## [1.10.25](https://github.com/intentuilabs/icons/compare/1.10.24...1.10.25) (2025-02-12)
