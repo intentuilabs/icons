@@ -1,5 +1,12 @@
 
 
+## [1.10.29](https://github.com/intentuilabs/icons/compare/1.10.28...1.10.29) (2025-04-08)
+
+
+### Bug Fixes
+
+* fix permissions ([5d966dc](https://github.com/intentuilabs/icons/commit/5d966dc566839e3f9bbd09bd101a639f525fc47c))
+
 ## [1.10.28](https://github.com/intentuilabs/icons/compare/1.10.27...1.10.28) (2025-04-08)
 
 ## [1.10.27](https://github.com/intentuilabs/icons/compare/1.10.26...1.10.27) (2025-04-08)
