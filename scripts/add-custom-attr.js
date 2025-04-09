@@ -17,7 +17,7 @@ fs.readdir(dir, (err, files) => {
           return;
         }
 
-        let updatedData = data.replace(/<svg([^>]*?)>/, (match, attributes) => {
+        const updatedData = data.replace(/<svg([^>]*?)>/, (match, attributes) => {
           return `<svg${attributes} className={\`intentui-icons \${props.className || "size-4"}\`} data-slot={props["data-slot"] || "icon"} aria-hidden="true">`;
         });
 

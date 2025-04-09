@@ -223,7 +223,6 @@ export { default as IconBrandInertiajs } from "./IconBrandInertiajs";
 export { default as IconBrandInstagram } from "./IconBrandInstagram";
 export { default as IconBrandIntentui } from "./IconBrandIntentui";
 export { default as IconBrandJavascript } from "./IconBrandJavascript";
-export { default as IconBrandJustd } from "./IconBrandJustd";
 export { default as IconBrandKarteil } from "./IconBrandKarteil";
 export { default as IconBrandKubernetes } from "./IconBrandKubernetes";
 export { default as IconBrandLaravel } from "./IconBrandLaravel";
