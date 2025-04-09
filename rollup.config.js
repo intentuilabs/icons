@@ -34,7 +34,7 @@ const config = {
       file: "dist/umd/index.js",
       format: "umd",
       plugins: [terser()],
-      name: "JustdIcons",
+      name: "IntentuiIcons",
       globals: {
         react: "React",
         "@babel/runtime/helpers/extends": "_extends", // Provide a global variable name

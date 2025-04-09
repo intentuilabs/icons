@@ -1,13 +1,13 @@
-## Justd Icons
+## Intent UI Icons
 
-This is a library icon of Justd previously well known as Paranoid Icons (@irsyadadl/paranoid).
+This is a library icon of Intent UI previously well known as Justd Icons.
 
 ![image](https://getjustd.com/icons/opengraph-image-1ltojg.png?9f62da52533ceee6?v=2)
 
 <p align="center">
     <a href="https://github.com/intentuilabs/icons/actions/workflows/release-package.yml"><img src="https://img.shields.io/github/actions/workflow/status/intentuilabs/icons/release-package.yml" alt="Build Status"></a>
-    <a href="https://github.com/justd-icons/justd-icons/releases"><img src="https://img.shields.io/npm/v/justd-icons.svg" alt="Latest Release"></a>
-    <a href="https://github.com/justd-icons/justd-icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/justd-icons.svg" alt="License"></a>
+    <a href="https://github.com/intentuilabs/icons/releases"><img src="https://img.shields.io/npm/v/justd-icons.svg" alt="Latest Release"></a>
+    <a href="https://github.com/intentuilabs/icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/justd-icons.svg" alt="License"></a>
 </p>
 
 ## Installation
