@@ -1,5 +1,13 @@
 
 
+## [1.10.30](https://github.com/intentuilabs/icons/compare/1.10.29...1.10.30) (2025-04-09)
+
+
+### Bug Fixes
+
+* code: remove prettier ([0203632](https://github.com/intentuilabs/icons/commit/0203632794e344b9d46d79f3156715f05512b00c))
+* remove brand-justd ([80b346e](https://github.com/intentuilabs/icons/commit/80b346ea60ba2361e9e4b6ee82d9626dd452883f))
+
 ## [1.10.29](https://github.com/intentuilabs/icons/compare/1.10.28...1.10.29) (2025-04-08)
 
 
