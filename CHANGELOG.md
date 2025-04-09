@@ -1,5 +1,12 @@
 
 
+## [1.10.31](https://github.com/intentuilabs/icons/compare/1.10.30...1.10.31) (2025-04-09)
+
+
+### Bug Fixes
+
+* link and name ([ee7043b](https://github.com/intentuilabs/icons/commit/ee7043b0d322351ad9d9347f994488a1832c9743))
+
 ## [1.10.30](https://github.com/intentuilabs/icons/compare/1.10.29...1.10.30) (2025-04-09)
 
 
