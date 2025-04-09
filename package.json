@@ -51,7 +51,7 @@
     "type": "git",
     "url": "git+https://github.com/intentuilabs/icons.git"
   },
-  "homepage": "https://getjustd.com/icons",
+  "homepage": "https://intentui.com/icons",
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
