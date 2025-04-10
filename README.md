@@ -2,7 +2,7 @@
 
 This is a library icon of Intent UI previously well known as Justd Icons.
 
-![image](https://getjustd.com/icons/opengraph-image-1ltojg.png?9f62da52533ceee6?v=2)
+![image](https://intentui.com/icons/opengraph-image-1ltojg.png?9f62da52533ceee6?v=2)
 
 <p align="center">
     <a href="https://github.com/intentuilabs/icons/actions/workflows/release-package.yml"><img src="https://img.shields.io/github/actions/workflow/status/intentuilabs/icons/release-package.yml" alt="Build Status"></a>
@@ -11,18 +11,30 @@ This is a library icon of Intent UI previously well known as Justd Icons.
 </p>
 
 ## Installation
-
+### NPM
 ```bash
-npm i justd-icons
+npm i @intentui/icons
+```
+### yarn
+```bash
+yarn add @intentui/icons
+```
+### bun
+```bash
+bun add @intentui/icons
+```
+### PNPM
+```bash
+pnpm add @intentui/icons
 ```
 
 ```tsx
-import { IconShoppingBag } from "justd-icons";
+import { IconShoppingBag } from "@intentui/icons";
 
 <IconShoppingBag />;
 ```
 
-The list of icons can be found here at [getjustd.com/icons](https://getjustd.com/icons).
+The list of icons can be found here at [intentui.com/icons](https://intentui.com/icons).
 
 ## Author
 
@@ -34,7 +46,7 @@ This library is [MIT](https://github.com/intentuilabs/icons/blob/master/LICENSE)
 
 ## Showcase
 
-- [Justd](https://getjustd.com)
-- [Justd Blocks](https://blocks.getjustd.com)
+- [Intent UI](https://intentui.com)
+- [Intent UI Blocks](https://blocks.intentui.com)
 - [parsinta.com](https://parsinta.com)
 - [irsyad.co](https://irsyad.co)
