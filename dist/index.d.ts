@@ -138,6 +138,8 @@ export declare const IconBeatsFitProChargingcaseFill: React.FC<React.SVGProps<SV
 export declare const IconBeatsFitProLeft: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBeatsFitProRight: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBeatsHeadphones: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBed: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBedFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBell: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBellAlarm: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBellAlarmFill: React.FC<React.SVGProps<SVGSVGElement>>;

@@ -137,6 +137,8 @@ export { default as IconBeatsFitProLeft } from "./IconBeatsFitProLeft";
 export { default as IconBeatsFitProRight } from "./IconBeatsFitProRight";
 export { default as IconBeatsFitPro } from "./IconBeatsFitPro";
 export { default as IconBeatsHeadphones } from "./IconBeatsHeadphones";
+export { default as IconBedFill } from "./IconBedFill";
+export { default as IconBed } from "./IconBed";
 export { default as IconBellAlarmFill } from "./IconBellAlarmFill";
 export { default as IconBellAlarm } from "./IconBellAlarm";
 export { default as IconBellFill } from "./IconBellFill";
