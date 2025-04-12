@@ -1,5 +1,7 @@
 
 
+## [1.10.33](https://github.com/intentuilabs/icons/compare/1.10.32...1.10.33) (2025-04-12)
+
 ## [1.10.32](https://github.com/intentuilabs/icons/compare/1.10.31...1.10.32) (2025-04-10)
 
 
