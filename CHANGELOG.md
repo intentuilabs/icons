@@ -1,5 +1,12 @@
 
 
+## [1.11.0](https://github.com/intentuilabs/icons/compare/1.10.34...1.11.0) (2025-05-04)
+
+
+### Features
+
+* add document icon ([33bd78c](https://github.com/intentuilabs/icons/commit/33bd78cd199951ecd7dbecaf4cf0180fd2d20ea8))
+
 ## [1.10.34](https://github.com/intentuilabs/icons/compare/1.10.33...1.10.34) (2025-04-23)
 
 ## [1.10.33](https://github.com/intentuilabs/icons/compare/1.10.32...1.10.33) (2025-04-12)
